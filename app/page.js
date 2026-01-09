@@ -4,9 +4,9 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center">
-      <main className="flex max-w-3xl flex-col items-center gap-10 py-24 px-20 bg-black/70 w-[92vw] max-w-[900px] h-[70vh] max-h-[520px] text-white rounded-lg shadow-2xl backdrop-blur-md border border-white/10 -translate-y-10 md:-translate-y-40">
+      <main className="flex max-w-3xl flex-col items-center gap-10 py-24 px-20 bg-black/70 w-[92vw] max-w-[900px] h-[70vh] max-h-[80svh] overflow-y-auto overscroll-contain text-white rounded-lg shadow-2xl backdrop-blur-md border border-white/10 -translate-y-10 md:-translate-y-40">
         <Image
-          src="/images/book1.png"
+          src="/images/The-Cozy-Corner-logo.png"
           alt="The Cozy Corner"
           width={150}
           height={160}
