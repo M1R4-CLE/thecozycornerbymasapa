@@ -58,7 +58,7 @@ export default function ContactPage() {
         </div>
 
         <p className="text-center mt-10 text-amber-700">
-          (This is just a placeholder — form functionality coming soon!)
+          (created by Daryll Dave R. Masapa)
         </p>
       </div>
     </div>
